@@ -888,6 +888,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [go-fn](https://github.com/ematvey/go-fn) - Mathematical functions written in Go language, that are not covered by math pkg
 * [go-gt](https://github.com/ThePaw/go-gt) - Graph theory algorithms written in "Go" language
 * [go.matrix](https://github.com/skelterjohn/go.matrix) - linear algebra for go (has been stalled)
+* [go-chart](https://github.com/wcharczuk/go-chart) - go chart is a basic charting library in native golang.
 * [gocomplex](https://github.com/varver/gocomplex) - A complex number library for the Go programming language.
 * [gofrac](https://github.com/anschelsc/gofrac) - A (goinstallable) fractions library for go with support for basic arithmetic.
 * [gohistogram](https://github.com/VividCortex/gohistogram) - Approximate histograms for data streams
