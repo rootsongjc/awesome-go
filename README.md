@@ -1054,6 +1054,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
     * [toml](https://github.com/BurntSushi/toml) - TOML configuration format (encoder/decoder with reflection).
 * Utility
     * [gotabulate](https://github.com/bndr/gotabulate) - Easily pretty-print your tabular data with Go.
+    * [mahonia](https://github.com/axgle/mahonia) - character-set conversion library implemented in Go
     * [kace](https://github.com/codemodus/kace) - Common case conversions covering common initialisms.
     * [parseargs-go](https://github.com/nproc/parseargs-go) - A string argument parser that understands quotes and backslashes
     * [parth](https://github.com/codemodus/parth) - URL path segmentation parsing.
