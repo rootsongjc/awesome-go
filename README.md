@@ -16,6 +16,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
     - [Command Line](#command-line)
     - [Configuration](#configuration)
     - [Continuous Integration](#continuous-integration)
+    - [Crawler](#crawler)
     - [CSS Preprocessors](#css-preprocessors)
     - [Data Structures](#data-structures)
     - [Database](#database)
@@ -211,6 +212,19 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [goveralls](https://github.com/mattn/goveralls) - Go integration for Coveralls.io continuous code coverage tracking system.
 * [overalls](https://github.com/go-playground/overalls) - Multi-Package go project coverprofile for tools like goveralls
 * [roveralls](https://github.com/LawrenceWoodman/roveralls) - A recursive coverage testing tool
+
+## Crawler
+
+*Web crawler, spider and resources.*
+
+- [pholcus](https://github.com/henrylee2cn/pholcus) - A distributed, high concurrency and powerful web crawler.
+- [gocrawl](https://github.com/PuerkitoBio/gocrawl) - Polite, slim and concurrent web crawler.
+- [fetchbot](https://github.com/PuerkitoBio/fetchbot) - A simple and flexible web crawler that follows the robots.txt policies and crawl delays.
+- [go_spider](https://github.com/hu17889/go_spider) - An awesome Go concurrent Crawler(spider) framework.
+- [dht](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider.
+- [ants-go](https://github.com/wcong/ants-go) - A open source, distributed, restful crawler engine in golang.
+- [scrape](https://github.com/yhat/scrape) - A simple, higher level interface for Go web scraping.
+- [creeper](https://github.com/wspl/creeper) - The Next Generation Crawler Framework (Go).
 
 ## CSS Preprocessors
 
